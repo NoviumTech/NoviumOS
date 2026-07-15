@@ -32,8 +32,6 @@ More details coming as development progresses. Stay tuned.
 
 NoviumOS is built by NoviumTech. Just me. If you're interested in contributing, check back soon for contribution guidelines.
 
-**Made with ❤️ by NoviumTech**
-
 ---
 
 **Made with ❤️ by NoviumTech**
